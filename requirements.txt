@@ -1,0 +1,10 @@
+discord==1.0.1
+Flask==1.1.2
+python-youtube==0.8.0
+PyNaCl==1.4.0
+newsapi-python==0.2.6
+youtube-dl2 == 2.0
+youtube-dl == 2021.4.26
+
+git+https://github.com/Rapptz/discord.py
+ffmpeg
